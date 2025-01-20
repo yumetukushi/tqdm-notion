@@ -6,7 +6,7 @@ authors = ["fake_name <fake@example.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "3.11.0"
+python = "^3.11.0"
 tqdm = "^4.67.1"
 tzlocal = "^5.2"
 pytz = "^2024.2"
